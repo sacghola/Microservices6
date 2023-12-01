@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/v1-springboot-basicapproach/accounts/accounts.iml" filepath="$PROJECT_DIR$/v1-springboot-basicapproach/accounts/accounts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v2-springboot-spring-cloud-config/accounts/accounts (1).iml" filepath="$PROJECT_DIR$/v2-springboot-spring-cloud-config/accounts/accounts (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/v1-springboot-basicapproach/cards/cards.iml" filepath="$PROJECT_DIR$/v1-springboot-basicapproach/cards/cards.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v2-springboot-spring-cloud-config/cards/cards (1).iml" filepath="$PROJECT_DIR$/v2-springboot-spring-cloud-config/cards/cards (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/v2-springboot-spring-cloud-config/configserver/configserver.iml" filepath="$PROJECT_DIR$/v2-springboot-spring-cloud-config/configserver/configserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v1-springboot-basicapproach/loans/loans.iml" filepath="$PROJECT_DIR$/v1-springboot-basicapproach/loans/loans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v2-springboot-spring-cloud-config/loans/loans (1).iml" filepath="$PROJECT_DIR$/v2-springboot-spring-cloud-config/loans/loans (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/section6-externelizationConfiguration.iml" filepath="$PROJECT_DIR$/.idea/section6-externelizationConfiguration.iml" />
+    </modules>
+  </component>
+</project>

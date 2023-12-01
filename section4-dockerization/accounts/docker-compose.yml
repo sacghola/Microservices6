@@ -1,0 +1,38 @@
+services:
+  accounts:
+    image: "sachingholap/accounts:s4"
+    container_name: accounts-ms
+    ports:
+      - "8081:8081"
+    deploy:
+      resources:
+        limits:
+          memory: 700m
+    networks:
+      - eazybank
+  loans:
+    image: "sachingholap/loans:s4"
+    container_name: loans-ms
+    ports:
+      - "8090:8090"
+    deploy:
+      resources:
+        limits:
+          memory: 700m
+    networks:
+      - eazybank
+  cards:
+    image: "sachingholap/cards:s4"
+    container_name: cards-ms
+    ports:
+      - "9000:9000"
+    deploy:
+      resources:
+        limits:
+          memory: 700m
+    networks:
+      - eazybank
+networks:
+  eazybank:
+    driver: "bridge"
+

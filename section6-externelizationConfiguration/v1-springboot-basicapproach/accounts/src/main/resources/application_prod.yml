@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related Prod APIs "
+  contactDetails:
+    name: "anil Aainarkar - Prod Owner"
+    email: "anil@eazybank.com"
+  onCallSupport:
+    - (435) 265-1234
+    - (276) 734-1345
